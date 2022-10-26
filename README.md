@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# Math-Magician 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Available Scripts
+# Project Description
 
-In the project directory, you can run:
+Delete all the boilerplate from CRA (text, images, styles).
+Create a directory called components.
+Inside components, create a new Calculator.js file.
+In Calculator.js, create a React component that matches this design:
 
-### `npm start`
+# Project Video link:
+[link to video]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> In this project, We created an interactive web app using multiple API's to get and render info and multimedia, as well as implement like and comment features.
 
-### `npm test`
+## Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Major languages
+  React
+  CSS
+  JavaScript
 
-### `npm run build`
+- Frameworks
+  None
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Live Demo (if available)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Live Demo Link]()
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+Clone the Repo and power on the live-server to view the App or click on the live demo link.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To get a local copy up and running follow these simple example steps.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Install a code editor and have a working browser.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Getting started
 
-## Learn More
+To get a local copy up and running follow these simple example steps.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1- Navigate to the button on the top right green "code" button.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2- In the drop down menu choose "Download Zip" or clone it using git using the following command.
 
-### Code Splitting
+$ https://github.com/Enekwestanley/math_magicians
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3- After extracting the files, you'll have my project on your local machine.
 
-### Analyzing the Bundle Size
+4- to run the project you'll need to use the following command in your terminal to set up the node modules.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+$ npm run start
 
-### Making a Progressive Web App
+5- after opening the project in the localHost using live server, you might have to click the dist folder to see the project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+6- for development only purposes: $ npm run serve in the terminal.
 
-### Advanced Configuration
+### Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This app will present you with a cover full of many movies and shows directly loaded from the API, you can also check out their details by clicking on them.
+
+This app also lets you like and comment on any show poster you want, also to see the likes and comments of other users.
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This App was deployed using the github apps deployment. But you can also run "npm run start" in your terminal after the setup process.
 
-### `npm run build` fails to minify
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+👤 **Stanley Tochukwu Enekwe:**
+
+- GitHub: [@Enekwestanley](https://github.com/Enekwestanley)
+- Twitter: [@Tochukwu87](https://twitter.com/tochukwu87)
+- LinkedIn: [stanley-enekwe](https://www.linkedin.com/in/stanley-enekwe-285104230/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Kelvin-Ben/Javascript-Project).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
