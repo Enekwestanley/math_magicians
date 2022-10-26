@@ -1,0 +1,44 @@
+.calculator {
+  width: 30%;
+  margin: auto 35%;
+}
+
+.return-section {
+  background-color: rgb(133, 134, 147);
+  padding: 10px;
+  color: #fff;
+  text-align: right;
+  font-size: 30px;
+  width: auto;
+  border-radius: 0.4rem;
+}
+
+.digits-elts {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+.button-section {
+  padding: 20px;
+  cursor: pointer;
+  border: 1px solid #dadada;
+  border-radius: 0.4rem;
+  font-size: large;
+}
+
+.button-section:hover {
+  background-color: #ee0606;
+}
+
+.operator {
+  background-color: #ff9100fd;
+}
+
+.operator:hover {
+  background-color: #c4a914;
+}
+
+.end {
+  display: grid;
+  grid-template-columns: 50% 25% 25%;
+}
