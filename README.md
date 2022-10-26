@@ -4,16 +4,9 @@
 
 # Project Description
 
-Delete all the boilerplate from CRA (text, images, styles).
-Create a directory called components.
-Inside components, create a new Calculator.js file.
-In Calculator.js, create a React component that matches this design:
+In this project, you will add the logic needed to make the Calculator component you developed in the previous project actually work.
 
 # Project Video link:
-[link to video]
-
-
-> In this project, We created an interactive web app using multiple API's to get and render info and multimedia, as well as implement like and comment features.
 
 ## Built With
 
