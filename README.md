@@ -4,9 +4,7 @@
 
 # Project Description
 
-In this project, you will add the logic needed to make the Calculator component you developed in the previous project actually work.
-
-# Project Video link:
+In this project you will refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
 
 ## Built With
 
@@ -19,8 +17,6 @@ In this project, you will add the logic needed to make the Calculator component 
   None
 
 ## Live Demo (if available)
-
-[Live Demo Link]()
 
 ## Getting Started
 
@@ -47,16 +43,6 @@ $ https://github.com/Enekwestanley/math_magicians
 4- to run the project you'll need to use the following command in your terminal to set up the node modules.
 
 $ npm run start
-
-5- after opening the project in the localHost using live server, you might have to click the dist folder to see the project.
-
-6- for development only purposes: $ npm run serve in the terminal.
-
-### Usage
-
-This app will present you with a cover full of many movies and shows directly loaded from the API, you can also check out their details by clicking on them.
-
-This app also lets you like and comment on any show poster you want, also to see the likes and comments of other users.
 
 ### Deployment
 
