@@ -4,7 +4,7 @@
 
 # Project Description
 
-In this project you will refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
+In this project, you will create a full website for the Math magicians app, consisting of several pages and using the components you already created.
 
 ## Built With
 
