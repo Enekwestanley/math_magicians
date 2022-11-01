@@ -1,6 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Calculator from './components/Calculator';
+import { Router, Route, Routes } from 'react-router-dom';
+import Calculator from './components/calculator';
 import Home from './pages/Home';
 import Quote from './pages/Quotes';
 import NotMatch from './pages/NotMatch';
