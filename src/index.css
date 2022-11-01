@@ -14,3 +14,37 @@ body {
   color: aliceblue;
   font-style: oblique;
 }
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  padding: 0 2rem;
+}
+
+.nav h1 {
+  color: antiquewhite;
+}
+
+.links {
+  padding: 0 1rem;
+  font-style: oblique;
+  font-size: large;
+  color: antiquewhite;
+}
+
+.welcome p,
+h3 {
+  color: antiquewhite;
+  text-align: justify;
+  padding: 1rem 3rem;
+  width: 60%;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.welcome h1 {
+  text-align: center;
+  color: antiquewhite;
+}
