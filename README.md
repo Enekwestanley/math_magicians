@@ -17,6 +17,7 @@ In this project, you will create a full website for the Math magicians app, cons
   None
 
 ## Live Demo (if available)
+https://math-magician-deploy.netlify.app/
 
 ## Getting Started
 
